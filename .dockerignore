@@ -1,0 +1,7 @@
+# Ignore everything
+**
+
+# But whitelist backend source files needed for build
+!ProductCatalog/
+!ProductCatalog/pom.xml
+!ProductCatalog/src/
